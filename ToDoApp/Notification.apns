@@ -1,0 +1,15 @@
+{
+    "aps" : {
+        "alert" : {
+            "title" : "Test Notification with open",
+            "body" : "This is a test notification, we'll tell you if you're in a real troubble. Keep it going, buddy.",
+            "action-loc-key" : "PLAY",
+            "mutable-content": 1
+        },
+        "badge" : 1,
+        "category":"CustomSamplePush",
+    },
+    "fcm_options": {
+        "image": "https://firebasestorage.googleapis.com/v0/b/todofbpn.appspot.com/o/limpiando.png?alt=media&token=406036b3-9592-4811-be0e-f3ede5c99254"
+    }
+}
